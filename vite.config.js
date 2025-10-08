@@ -2,5 +2,6 @@ import { defineConfig } from "vite";
 
 
 export default defineConfig ({
-    base: '/i-d-k/'
+    base: '/i-d-k/',
+    plugins: []
 })
